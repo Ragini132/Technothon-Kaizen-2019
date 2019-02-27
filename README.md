@@ -37,3 +37,18 @@ From the research conducted in India we can infer that due to increasing populat
 + Firebase
 + Thinkspeak software
 
+## Screenshots:
+
+![Image description](https://github.com/Ragini132/Technothon-Kaizen-2019/blob/master/Farmer_land_share.png)
+
+![Image description](https://github.com/Ragini132/Technothon-Kaizen-2019/blob/master/Farmer_land_share.png)
+
+## Demo Video:
+
+
+
+## How to use:
+
+
+
+
