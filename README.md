@@ -43,12 +43,28 @@ From the research conducted in India we can infer that due to increasing populat
 
 ![Image description](https://github.com/Ragini132/Technothon-Kaizen-2019/blob/master/Land_page.png)
 
+## Project working:
+
++ The web application different tabs that has general information about Indian agriculture (refer above screenshots ). The tab name "Land Integration System" takes in the input of the farmer who has land less then 5 hectare and is willing to collaborate with other neighbouring small farmers. As per the location of the farmer the neighbouring small scale farmers will be displayed. Further, all the farmer will be collaborated to work collectively.
+
++ Further, best crop prediction for the integrated land is done keeping in mind the land quality of all small lands which are integrated, to ensure effective productivity.
+
++ Along with that the hardware part of the project will be determine the amount of irrigtaion needed in the fields with the help of moisture and temperature sensor.
+
 ## Demo Video:
 
 
 
 ## How to use:
++ Firstly clone and download the repository as a zip folder.
 
+### Software:
+
++ Now, open the first.html file present in the zip folder. This opens the website, further traverse through all the tabs to explore the website.Additionally, install jupyter notebook and run the above the given crop_prediction code on the given dataset to get the optimal crop for the integrated land.
+
+### Hardware:
+
++
 
 
 
