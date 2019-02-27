@@ -58,11 +58,11 @@ From the research conducted in India we can infer that due to increasing populat
 ## How to use:
 + Firstly clone and download the repository as a zip folder.
 
-### Software:
+#### Software:
 
 + Now, open the first.html file present in the zip folder. This opens the website, further traverse through all the tabs to explore the website.Additionally, install jupyter notebook and run the above the given crop_prediction code on the given dataset to get the optimal crop for the integrated land.
 
-### Hardware:
+#### Hardware:
 
 +
 
