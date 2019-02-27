@@ -39,7 +39,7 @@ From the research conducted in India we can infer that due to increasing populat
 
 ## Screenshots:
 
-![Image description](https://github.com/Ragini132/Technothon-Kaizen-2019/blob/master/Farmer_land_share.png)
+![Image description](https://github.com/Ragini132/Technothon-Kaizen-2019/blob/master/home_page.png)
 
 ![Image description](https://github.com/Ragini132/Technothon-Kaizen-2019/blob/master/Farmer_land_share.png)
 
