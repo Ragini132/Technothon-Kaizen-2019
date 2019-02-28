@@ -49,7 +49,7 @@ From the research conducted in India we can infer that due to increasing populat
 
 + The web application different tabs that has general information about Indian agriculture (refer above screenshots ). The tab name "Land Integration System" takes in the input of the farmer who has land less then 5 hectare and is willing to collaborate with other neighbouring small farmers. As per the location of the farmer the neighbouring small scale farmers will be displayed. Further, all the farmer will be collaborated to work collectively.
 
-+ Further, best crop prediction for the integrated land is done keeping in mind the land quality of all small lands which are integrated, to ensure effective productivity.
++ Further, best crop prediction for the integrated land is done keeping in mind the land quality of all small lands which are integrated, to ensure effective productivity (4 paratmeters: soil type, moisture, weather and previous crop grown on the land).
 
 + Along with that the hardware part of the project will be determine the amount of irrigtaion needed in the fields with the help of moisture and temperature sensor.
 
@@ -77,7 +77,7 @@ This is a prototype of automated irrigation system.
 
 Firstly we open crop_monitoring.ino file on installed arduino software upload the code on arduino along with the required apparatus and observe the changes. We have a used a bottle as a pipe that would be used for irrigation to demonstrate automatic switching of water supply depending upon the values of temperature and moisture sensor. When the soil moisture is less and the temperature is high we switch on the water supply such that hole in the bottle is at the bottom and water starts dripping. When the moisture is high, then the supply stops.(hole comes to the top)
 
-## Future work:
+## Future Work:
 
 + This model is developed on a small scale i.e for one village further this model could be extended to nation-wide level incorporating all villages in every state across the whole country.
 
