@@ -42,7 +42,7 @@ From the research conducted in India we can infer that due to increasing populat
 
 ![Image description](https://github.com/Ragini132/Technothon-Kaizen-2019/blob/master/home_page.png)
 
-![Image description](https://github.com/Ragini132/Technothon-Kaizen-2019/blob/master/Land_page.png)
+![Image description](https://github.com/Ragini132/Technothon-Kaizen-2019/blob/master/Sensor_values.JPG)
 
 
 ## Project working:
@@ -55,7 +55,7 @@ From the research conducted in India we can infer that due to increasing populat
 
 ## Demo Video:
 
-[Video](https://youtu.be/FnbFHaWZXTU)
+[Video_Link](https://youtu.be/FnbFHaWZXTU)
 
 ## How to use:
 + Firstly clone and download the repository as a zip folder.
@@ -75,11 +75,7 @@ From the research conducted in India we can infer that due to increasing populat
 
 We are using servo motor to switch on and off the water supply depending upon the values of temperature and moisture sensor.
 
-
-
-## Contributes:
-
-
-
 ## Credits:
+
++ Acknowledging Technothon-Kaizen-2019, NSS IIT Delhi for providing this great oppertunity and platform. This helped us in presenting our idea and solution to one of the major problems faced by the Indian Agriculture.
 
