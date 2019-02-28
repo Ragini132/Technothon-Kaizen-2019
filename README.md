@@ -68,8 +68,12 @@ From the research conducted in India we can infer that due to increasing populat
 
 +Components
 + DHT 11(Temperature Sensor)
-+ Soil Moisture Sensor
-+ 
++ Soil Moisture Sensor( By meausuring resistance) 
++ Servo Motor
++ 1 10k ohm resistor
++Jumper Wires
+
+We are using servo motor to switch on and off the water supply depending upon the values of temperature and moisture sensor.
 
 
 
