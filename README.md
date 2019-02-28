@@ -66,7 +66,10 @@ From the research conducted in India we can infer that due to increasing populat
 
 #### Hardware:
 
-+
++Components
++ DHT 11(Temperature Sensor)
++ Soil Moisture Sensor
++ 
 
 
 
