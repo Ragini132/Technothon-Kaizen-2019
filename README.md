@@ -66,7 +66,7 @@ From the research conducted in India we can infer that due to increasing populat
 
 #### Hardware:
 
-+ Components:
+Components:
 + DHT 11(Temperature Sensor)
 + Soil Moisture Sensor( By meausuring resistance) 
 + Servo Motor
@@ -81,5 +81,5 @@ We are using servo motor to switch on and off the water supply depending upon th
 
 ## Credits:
 
-+ Acknowledging Technothon-Kaizen-2019, NSS IIT Delhi for providing this great oppertunity and platform. This helped us in presenting our idea and solution to one of the major problems faced by the Indian Agriculture.
++ Acknowledging Technothon-Kaizen-2019, NSS IIT Delhi for providing this great opportunity and platform. This helped us in presenting our idea and solution to one of the major problems faced by the Indian Agriculture.
 
