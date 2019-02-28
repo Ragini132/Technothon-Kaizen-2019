@@ -44,6 +44,7 @@ From the research conducted in India we can infer that due to increasing populat
 
 ![Image description](https://github.com/Ragini132/Technothon-Kaizen-2019/blob/master/Land_page.png)
 
+
 ## Project working:
 
 + The web application different tabs that has general information about Indian agriculture (refer above screenshots ). The tab name "Land Integration System" takes in the input of the farmer who has land less then 5 hectare and is willing to collaborate with other neighbouring small farmers. As per the location of the farmer the neighbouring small scale farmers will be displayed. Further, all the farmer will be collaborated to work collectively.
