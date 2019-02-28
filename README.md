@@ -66,7 +66,7 @@ From the research conducted in India we can infer that due to increasing populat
 
 #### Hardware:
 
-+Components
+ ## Components
 + DHT 11(Temperature Sensor)
 + Soil Moisture Sensor( By meausuring resistance) 
 + Servo Motor
