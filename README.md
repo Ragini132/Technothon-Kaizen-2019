@@ -71,9 +71,11 @@ Components:
 + Soil Moisture Sensor( By meausuring resistance) 
 + Servo Motor
 + 1 10k ohm resistor
-+Jumper Wires
++ Jumper Wires
 
-We are using servo motor to switch on and off the water supply depending upon the values of temperature and moisture sensor.
+This is a prototype of automated irrigation system.  
+
+Firstly we open crop_monitoring.ino file on installed arduino software upload the code on arduino along with the required appratus and observe the changes. We have a used a bottle as a pipe that would be used for irrigation to demonstrate automatic switching of water supply depending upon the values of temperature and moisture sensor. When the soil moisture is less and the temperature is high we switch on the water supply such that hole in the bottle is at the bottom and water starts dripping. When the moisture is high, then the supply stops.(hole comes to the top)
 
 ## Future work:
 
