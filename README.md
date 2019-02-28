@@ -49,7 +49,7 @@ From the research conducted in India we can infer that due to increasing populat
 
 + The web application different tabs that has general information about Indian agriculture (refer above screenshots ). The tab name "Land Integration System" takes in the input of the farmer who has land less then 5 hectare and is willing to collaborate with other neighbouring small farmers. As per the location of the farmer the neighbouring small scale farmers will be displayed. Further, all the farmer will be collaborated to work collectively.
 
-+ Further, best crop prediction for the integrated land is done keeping in mind the land quality of all small lands which are integrated, to ensure effective productivity (4 paratmeters: soil type, moisture, weather and previous crop grown on the land).
++ Further, best crop prediction for the integrated land is done keeping in mind the land quality of all small lands which are integrated, to ensure effective productivity (4 parameters: soil type, moisture, weather and previous crop grown on the land).
 
 + Along with that the hardware part of the project will be determine the amount of irrigtaion needed in the fields with the help of moisture and temperature sensor.
 
