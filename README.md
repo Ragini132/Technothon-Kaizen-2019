@@ -66,7 +66,7 @@ From the research conducted in India we can infer that due to increasing populat
 
 #### Hardware:
 
- #### Components
++ Components:
 + DHT 11(Temperature Sensor)
 + Soil Moisture Sensor( By meausuring resistance) 
 + Servo Motor
@@ -74,6 +74,10 @@ From the research conducted in India we can infer that due to increasing populat
 +Jumper Wires
 
 We are using servo motor to switch on and off the water supply depending upon the values of temperature and moisture sensor.
+
+## Future work:
+
++ This model is developed on a small scale i.e for one village further this model could be extended to nation-wide level incorporating all villages in every state across the whole country.
 
 ## Credits:
 
