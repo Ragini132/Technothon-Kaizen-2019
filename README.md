@@ -38,6 +38,7 @@ From the research conducted in India we can infer that due to increasing populat
 + Thinkspeak software
 
 ## Screenshots:
+![Image description](https://github.com/Ragini132/Technothon-Kaizen-2019/blob/master/hardware_image.jpeg)
 
 ![Image description](https://github.com/Ragini132/Technothon-Kaizen-2019/blob/master/home_page.png)
 
